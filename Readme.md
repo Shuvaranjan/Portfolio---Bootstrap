@@ -1,5 +1,5 @@
 
- <img width="48" height="48" alt="icons8-bootstrap-48" src="https://github.com/user-attachments/assets/07ad4d8d-3572-4d45-a7f2-0dbbb2ed2d30" />
+
   <h1>﻿Portfolio: Bootstrap</h1> 
 
 
