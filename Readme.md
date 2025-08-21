@@ -30,6 +30,11 @@
 🚀 I’m constantly exploring new technologies and improving my skills, and this project gave me another opportunity to refine my knowledge in Bootstrap, responsive design, performance optimization, and UI/UX principles.
 </p>
 
-!["Bootstrap Portfolio](./assets/Images/shuvaranjan.github.io_Portfolio---Bootstrap_.png)
+!["Bootstrap Portfolio](./assets/Images/screenshot01.webp)
+!["Bootstrap Portfolio](./assets/Images/screenshot02.webp)
+!["Bootstrap Portfolio](./assets/Images/screenshot03.webp)
+!["Bootstrap Portfolio](./assets/Images/screenshot04.webp)
+!["Bootstrap Portfolio](./assets/Images/screenshot05.webp)
+!["Bootstrap Portfolio](./assets/Images/screenshot06.webp)
 
 
