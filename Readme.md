@@ -31,10 +31,10 @@
 </p>
 
 !["Bootstrap Portfolio](./assets/Images/screenshot01.webp)
-!["Bootstrap Portfolio](./assets/Images/screenshot02.webp)
+<!-- !["Bootstrap Portfolio](./assets/Images/screenshot02.webp)
 !["Bootstrap Portfolio](./assets/Images/screenshot03.webp)
 !["Bootstrap Portfolio](./assets/Images/screenshot04.webp)
 !["Bootstrap Portfolio](./assets/Images/screenshot05.webp)
-!["Bootstrap Portfolio](./assets/Images/screenshot06.webp)
+!["Bootstrap Portfolio](./assets/Images/screenshot06.webp) -->
 
 
