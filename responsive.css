@@ -1,0 +1,177 @@
+/* Responsive Styles */
+@media (max-width: 991.98px) {
+  .banner_wrapper .vertical-nav {
+    display: none;
+  }
+
+  .about_wrapper,
+  .service_wrapper,
+  .portfolio_wrapper {
+    padding: auto;
+  }
+
+  section {
+    padding: 30px 0;
+  }
+
+  h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  h3 {
+    font-size: 20px;
+  }
+
+  .header-scrolled {
+    height: auto;
+  }
+
+  .header_wrapper .navbar-nav .nav-link::after {
+    display: none;
+  }
+
+  .header_wrapper .navbar-nav .nav-link:hover {
+    color: var(--primary-red);
+
+
+  }
+
+  .header_wrapper .navbar-nav .nav-link {
+    margin: .5rem 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.269);
+  }
+
+  .header_wrapper .menu-navbar-nav {
+    background-color: var(--color-gray-200);
+    text-align: center;
+    padding: 1rem 3rem;
+  }
+
+  .banner_wrapper {
+    padding: 200px 0;
+  }
+
+  .top-btn {
+    display: none !important;
+  }
+
+
+  /* about */
+  .about_wrapper ul.nav-pills {
+    width: 57.2%;
+    margin: auto;
+  }
+
+
+  .portfolio_wrapper .card {
+    min-height: 400px;
+  }
+
+
+}
+
+@media (max-width: 1200px) {
+
+  .banner_wrapper .profile-banner,
+  .abstract {
+    display: none;
+  }
+}
+
+@media (max-width: 767.98px) {
+
+  section {
+    padding: 30px 0;
+  }
+
+  h1 {
+    font-size: 35px;
+    line-height: 48px;
+  }
+
+  h2 {
+    font-size: 42px;
+  }
+
+  p {
+    font-size: 12px;
+    line-height: 24px;
+  }
+
+  /* about */
+  .about_wrapper ul.nav-pills {
+    width: 100%;
+    margin: auto;
+    border: 0;
+  }
+
+  .about_wrapper ul li .nav-link {
+    font-size: .8rem;
+  }
+
+  .portfolio_wrapper .card {
+    min-height: 500px;
+  }
+
+
+ 
+
+}
+
+@media (max-width: 575.98px) {
+
+  h6 {
+    font-size: .8rem;
+  }
+
+  h1 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+
+  .header_wrapper .navbar-brand img {
+    width: 200px;
+  }
+
+  .service_wrapper .circle-shape,
+  .projects_wrapper .circle-shape{
+    bottom: -20%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
+}
+
+@media (max-width: 400px) {
+
+  .header_wrapper .navbar-brand img {
+    display: none;
+  }
+
+
+
+  .about_wrapper ul.nav-pills {
+    width: 100%;
+    margin: auto;
+    border: 0;
+  }
+
+  .about_wrapper ul li .nav-link {
+    font-size: .6rem;
+  }
+
+
+  .about_wrapper .tab-pane li {
+    font-size: .8rem;
+  }
+
+  .about_wrapper .tab-pane li a {
+    font-size: .8rem;
+  }
+
+  .projects_wrapper .card {
+    height: 220px;
+  }
+}
